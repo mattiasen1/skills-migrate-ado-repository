@@ -3,7 +3,10 @@
 ado_project_name: "MigrateFromADO"
 ado_repository_name: "MigrateFromADORepo"
 
+github_org: "mattias-test"
+target_github_repo_name: "migrated-repo"
+
 # Update these values before running the bootstrap script
 
-ado_url: ""  # e.g "https://dev.azure.com/your-org"
+ado_url: "https://dev.azure.com/mattiasen2"  # e.g "https://dev.azure.com/your-org"
 
